@@ -167,11 +167,7 @@ EIGRP routing was successfully configured.
 
 ---
 
-# 📂 Submission
-- Packet Tracer `.pkt` file  
-- README.md  
 
----
 
-# 💯 Author
+#  Author
 Aryaman Singh
